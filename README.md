@@ -2,7 +2,7 @@
 
 I'm Louey a programmer from Portugal enjoying and learning some code and creating various projects with it. You can checkout the technologies I like to use below with some of my projects aswell.
 
-## Some Technologies I manage to use 😁
+## Some Technologies I manage to use 😁    ![Demonstração](hollow-knight-knight.gif)
 <!--
 **Lou-ey/Lou-ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
