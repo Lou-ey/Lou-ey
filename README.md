@@ -23,7 +23,7 @@ Most of the time I'm experimenting with **Linux**, **backend development**, and 
 
 # 📂 Featured Projects
 
-### 🎵 Discord Music Bot [Amped]()
+### 🎵 Discord Music Bot [Amped](https://github.com/Lou-ey/amped-bot)
 Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
 
 ---
