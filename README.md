@@ -1,12 +1,16 @@
 # 👋 Hi there!
 
-I'm **Louey**, a developer from **Portugal** who enjoys learning new technologies and building interesting projects.
+I'm **Louey**, a developer from **Portugal 🇵🇹** who enjoys learning new technologies and building interesting projects.
 
-I like working with **backend systems**, **Linux environments**, and **automation**.
+💻 I like working with:
+- Backend development
+- Linux environments
+- Automation
+- APIs and system design
 
 ---
 
-## 🚀 Technologies & Tools
+# 🚀 Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -18,29 +22,29 @@ I like working with **backend systems**, **Linux environments**, and **automatio
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 Currently Learning
 
 - Advanced Linux configuration  
 - Backend API development  
-- Containerized applications with Docker  
-- Web development with modern frameworks  
+- Docker & containerized systems  
+- Web development  
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🎵 Discord Music Bot
+## 🎵 Discord Music Bot
 Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
 
-### 🏨 Hotel Reservation System
-Backend system built with **PostgreSQL (PL/pgSQL)** and **Flask API**.
+## 🏨 Hotel Reservation System
+Backend system using **PostgreSQL (PL/pgSQL)** and **Flask API**.
 
-### 🌐 Alternative Products Website
+## 🌐 Alternative Products Website
 Laravel project similar to **alternativeto.net** for everyday products.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lou-ey&show_icons=true&theme=tokyonight)
 
@@ -48,23 +52,28 @@ Laravel project similar to **alternativeto.net** for everyday products.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lou-ey&theme=tokyonight)
 
 ---
 
-## 👀 Profile Views
+# 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lou-ey&theme=tokyo-night)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Lou-ey/Lou-ey/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Lou-ey&color=blue)
 
 ---
 
-## 📫 Contact
-
-- GitHub: https://github.com/Lou-ey
-
----
-
 ⭐ Feel free to check out my repositories and projects!
-
