@@ -21,14 +21,13 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ## Currently Working On
 
-- Discord Music Bot [Amped](https://github.com/Lou-ey/amped-bot)
+- Maintaining and Improving [Amped](https://github.com/Lou-ey/amped-bot)
 
 ---
 
 ## 📂 Featured Projects
 
-#### 🎵 Discord Music Bot [Amped](https://github.com/Lou-ey/amped-bot)
-Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
+- [Amped](https://github.com/Lou-ey/amped-bot) - Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
 
 ---
 
@@ -50,10 +49,10 @@ Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
 
 ---
 
-## 👀 Profile Views
+## 👀 Stuff
 
 ![](https://komarev.com/ghpvc/?username=Lou-ey&color=blue)
-![](https://wakatime.com/@Louey)
+[![wakatime](https://wakatime.com/badge/user/e7ffe224-791d-4f91-8aa3-08305ad9e61b.svg)](https://wakatime.com/@Louey)
 
 ---
 
