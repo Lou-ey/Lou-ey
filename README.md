@@ -43,7 +43,7 @@ Here are some projects I've worked on:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Lou-ey
 
 ---
 
