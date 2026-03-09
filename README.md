@@ -1,12 +1,9 @@
 # 👋 Hi there!
 
-I'm **Louey**, a developer from **Portugal 🇵🇹** who enjoys learning new technologies and building interesting projects.
+I'm **Louey**, a Software Engineer from **Portugal**.
 
-💻 I like working with:
-- Backend development
-- Linux environments
-- Automation
-- APIs and system design
+I enjoy learning new technologies and building random projects whenever I have an idea.  
+Most of the time I'm experimenting with **Linux**, **backend development**, and some things to facilitate my work.
 
 ---
 
@@ -19,15 +16,8 @@ I'm **Louey**, a developer from **Portugal 🇵🇹** who enjoys learning new te
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
----
-
-# 🧠 Currently Learning
-
-- Advanced Linux configuration  
-- Backend API development  
-- Docker & containerized systems  
-- Web development  
+![HTML]()
+![CSS]()
 
 ---
 
@@ -35,12 +25,6 @@ I'm **Louey**, a developer from **Portugal 🇵🇹** who enjoys learning new te
 
 ## 🎵 Discord Music Bot
 Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
-
-## 🏨 Hotel Reservation System
-Backend system using **PostgreSQL (PL/pgSQL)** and **Flask API**.
-
-## 🌐 Alternative Products Website
-Laravel project similar to **alternativeto.net** for everyday products.
 
 ---
 
