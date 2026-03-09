@@ -57,6 +57,7 @@ Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
 # 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Lou-ey&color=blue)
+![](https://wakatime.com/Lou-ey)
 
 ---
 
