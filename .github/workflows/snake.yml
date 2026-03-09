@@ -2,26 +2,29 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
+  workflow_dispatch:          # Permite executar manualmente
 
 permissions:
-  contents: write
+  contents: write             # Necessário para criar a branch output
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Fazer checkout do repositório
       - uses: actions/checkout@v4
 
+      # 2️⃣ Gerar o snake
       - uses: Platane/snk@v3
         with:
-          github_user_name: Lou-ey
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          github_user_name: Lou-ey   # Substituir pelo teu username exato
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      # 3️⃣ Subir o resultado para uma branch "output"
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
