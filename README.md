@@ -45,7 +45,7 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Lou-ey/Lou-ey/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Lou-ey/Lou-ey/blob/dist/output/github-contribution-grid-snake.svg)
 
 ---
 
