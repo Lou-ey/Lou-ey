@@ -66,7 +66,7 @@ Laravel project similar to **alternativeto.net** for everyday products.
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/Lou-ey/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Lou-ey/Lou-ey/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
