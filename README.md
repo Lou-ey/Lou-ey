@@ -23,16 +23,8 @@ Most of the time I'm experimenting with **Linux**, **backend development**, and 
 
 # 📂 Featured Projects
 
-## 🎵 Discord Music Bot
+### 🎵 Discord Music Bot [Amped]()
 Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lou-ey&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lou-ey&layout=compact&theme=tokyonight)
 
 ---
 
@@ -57,7 +49,7 @@ Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
 # 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Lou-ey&color=blue)
-![](https://wakatime.com/Lou-ey)
+![](https://wakatime.com/@Louey)
 
 ---
 
