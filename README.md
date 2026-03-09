@@ -14,9 +14,14 @@ I enjoy learning new technologies and building random projects whenever I have a
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML]()
 ![CSS]()
+
+---
+
+## Currently Working On
+
+- Discord Music Bot [Amped](https://github.com/Lou-ey/amped-bot)
 
 ---
 
