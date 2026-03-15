@@ -33,7 +33,9 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ## 🔥 GitHub Streak
 
-<center>![GitHub Streak](https://streak-stats.demolab.com?user=Lou-ey&theme=tokyonight)</center>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lou-ey&theme=tokyonight" />
+</p>
 
 ---
 
