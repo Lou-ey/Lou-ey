@@ -27,7 +27,7 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ## 📂 Featured Projects
 
-- [Amped](https://github.com/Lou-ey/amped-bot) - Music bot built using **Discord API**, **Wavelink**, and **Lavalink**.
+- [Amped](https://github.com/Lou-ey/amped-bot) - Music bot built using **Discord API** and **Lavalink**.
 
 ---
 
