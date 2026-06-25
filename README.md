@@ -16,6 +16,8 @@ I enjoy learning new technologies and building random projects whenever I have a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23E22E10.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23)
+![C++](https://img.shields.io/badge/C%2B%2B)
 
 ---
 
