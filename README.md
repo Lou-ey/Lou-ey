@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm **Louey**, a Software Engineer from **Portugal**.
+I'm **Louey**, a Engineering Student from **Portugal**.
 
 I enjoy learning new technologies and building random projects whenever I have an idea.  
 
