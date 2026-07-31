@@ -6,7 +6,7 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ---
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -28,7 +28,7 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - [Amped](https://github.com/Lou-ey/amped-bot) - Music bot built using **Discord API** and **Lavalink**.
 
@@ -42,17 +42,17 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lou-ey&theme=tokyo-night)
 
 ---
 
-## 👀 Stuff
+## Stuff
 
 ![](https://komarev.com/ghpvc/?username=Lou-ey&color=blue)
 [![wakatime](https://wakatime.com/badge/user/e7ffe224-791d-4f91-8aa3-08305ad9e61b.svg)](https://wakatime.com/@Louey)
 
 ---
 
-⭐ Feel free to check out my repositories and projects!
+Feel free to check out my repositories and projects!
