@@ -17,8 +17,8 @@ I enjoy learning new technologies and building random projects whenever I have a
 ![Rust](https://img.shields.io/badge/rust-%23E22E10.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C#-23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
