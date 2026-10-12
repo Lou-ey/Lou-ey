@@ -45,7 +45,7 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ## Activity Graph
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lou-ey&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lou-ey&theme=tokyo-night) 
 
 ---
 
