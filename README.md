@@ -43,12 +43,6 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ---
 
-## Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lou-ey&show_icons=true&theme=tokyo-night)
-
----
-
 ## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lou-ey&theme=tokyo-night) 
@@ -57,7 +51,7 @@ I enjoy learning new technologies and building random projects whenever I have a
 
 ## Stuff
 
-![Profile Views](https://hits.sh/github.com/Lou-ey.svg?view=today-total&color=00599c&label=Views)
+![Visitas](https://api.visitorbadge.io/api/visitors?path=Lou-ey&label=VISITORS&labelColor=23272d&countColor=00599c&style=flat)
 [![wakatime](https://wakatime.com/badge/user/e7ffe224-791d-4f91-8aa3-08305ad9e61b.svg)](https://wakatime.com/@Louey)
 
 ---
